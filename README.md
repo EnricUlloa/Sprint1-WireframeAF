@@ -22,9 +22,7 @@ Link al esquema directo a figma: [Wireframe project](https://www.figma.com/desig
 
 ## Links del esquema web
 
-- .
-- .
-
+Link al esquema directo a figma: [Wireframe Web](https://www.figma.com/design/BsoV7mOFyKMEzOjFXwNOVv/DAW---Wireframe-Web-AF?node-id=0-1&node-type=canvas&t=Ka6ZBnGuJzLsLe9z-0)<br>
 
 ## Esquema móvil
 
